@@ -129,12 +129,12 @@
 		
 // Google Map
 	var locations = [
-		['<div class="infobox"><h3 class="title"><a href="#contact">OUR USA OFFICE</a></h3><span>NEW YORK CITY 2045 / 65</span><br>+90 555 666 77 88</p></div></div></div>', -37.801578, 145.060508, 2]
+		['<div class="infobox"><h3 class="title"><a href="#contact">OUR OFFICE</a></h3><span>NVIEW PARK TOWERS | 13TH FLOOR <br> UTALII STREET, NAIROBI, KENYA </span><br>+254 794 665 127</p></div></div></div>', -37.801578, 145.060508, 2]
 		];
 	
 		var map = new google.maps.Map(document.getElementById('map'), {
 			
-		  zoom: 10,
+		  zoom: 1,
 			scrollwheel: false,
 			navigationControl: true,
 			mapTypeControl: false,
